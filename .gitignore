@@ -1,0 +1,8 @@
+# ignore environment variable file
+backend/.env
+
+# Ignore log files
+*.log
+
+# ignore virtual environment folder 
+/venv/
